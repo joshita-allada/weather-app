@@ -21,7 +21,7 @@ body{
 
   animation-name: animate;
   animation-direction: alternate-reverse;
-  animation-duration: 25s;
+  animation-duration: 15s;
   animation-fill-mode: forwards;
   animation-iteration-count: infinite;
   animation-play-state: running;
@@ -68,7 +68,7 @@ body{
   position: relative;
   color: rgb(8, 5, 5);
   text-align: center;
-  margin: 10% auto auto auto; 
+  margin: 6% auto auto auto; 
 }
 ::selection{
   color: #fff;
@@ -79,7 +79,7 @@ body{
   background: #fff;
   border-radius: 7px;
   box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.05);
-  margin: 190px auto 0px auto;
+  margin: 5% auto 3% auto;
 }
 .wrapper header{
   display: flex;

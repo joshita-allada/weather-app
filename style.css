@@ -17,7 +17,7 @@ body{
   background-image: none;
   background-size: cover;
   background-position: center;
-  transition: 3s; 
+  transition: 2s; 
 
   animation-name: animate;
   animation-direction: alternate-reverse;
